@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: AsarMichil/bruh-how-tf-this-work
-  branch: main
+  branch: main 
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
