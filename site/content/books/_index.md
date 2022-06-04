@@ -1,45 +1,11 @@
 ---
 title: "Books"
-image: /img/about-jumbotron.jpg
+image: /img/home-at-my-desk.jpg
 books:
-  - heading: "Shade-grown coffee"
-    text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
-    text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+    image1: /img/manon-cover.jpg
+    manon: About Me
+    text1: I was born in Hungary among a post-war boom of babies. We boomers were cherished as the hope of a future that promised peace and prosperity. After the war, Hungary was assigned to the eastern bloc of countries under Soviet rule and it wasn’t long before Hungarians rebelled and a wave of immigration landed me in Canada.
+    image2: /img/sophie-cover.jpg
+    sophie: I was lucky enough to have received a good public education and the freedom to become anything I wanted to be. Unfortunately this open-ended potential was too broad to lock me onto any specific path and I spent my twenties trying to ‘find myself’.  I dabbled in art and aesthetics, in design and sales. Finally I dubbed myself an art consultant and built a small business doing corporate and commercial art sales. Apparently this was my calling until my daughter was born, and then what called me was motherhood. 
+    text2: It wasn’t until my retirement years that I discovered my true passion ‒ writing. I embraced this pursuit whole heartedly and enrolled at the University of Toronto and went on to earn my Certificate in Creative Writing. My first amateurish attempt at a novel sits securely locked in an archive and serves as a lesson in what not to do as a writer.
 ---
