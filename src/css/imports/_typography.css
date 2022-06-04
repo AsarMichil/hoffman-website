@@ -25,7 +25,7 @@ p {
   max-width: 32rem;
 }
 
-.pindent{
+.p-indent{
   margin-bottom: var(--spacing-medium);
   max-width: 32rem;
   text-indent: 10%;
