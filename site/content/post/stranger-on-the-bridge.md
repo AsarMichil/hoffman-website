@@ -2,9 +2,8 @@
 title: Stranger on the Bridge
 date: 2022-06-03T15:04:10.000Z
 description: >-
-    The quiet ambiance of this pieds à terre in Manhattan, has been obliterated by the clamor of my own thoughts. Developing literary characters has me wondering about who I am, what have I accomplished and what is my purpose? I need to escape this funk of introspection so I set out, on this beautiful spring day, to walk across the Brooklyn Bridge.
+    &nbsp;&nbsp;&nbsp;&nbsp; The quiet ambiance of this pieds à terre in Manhattan, has been obliterated by the clamor of my own thoughts. Developing literary characters has me wondering about who I am, what have I accomplished and what is my purpose? I need to escape this funk of introspection so I set out, on this beautiful spring day, to walk across the Brooklyn Bridge.
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;The quiet ambiance of this pieds à terre in Manhattan, has been obliterated by the clamor of my own thoughts. Developing literary characters has me wondering about who I am, what have I accomplished and what is my purpose? I need to escape this funk of introspection so I set out, on this beautiful spring day, to walk across the Brooklyn Bridge.
 
 &nbsp;&nbsp;&nbsp;&nbsp;My first challenge is to descend into the murky labyrinth of New York’s subway system. It’s a long ride downtown from South Harlem and I must stay alert lest I miss the stop, or become trapped by the ever-present crowd and exit on the wrong side to find myself lost somewhere in Battery Park. I finally arrive at City Hall station and emerge from the subterranean dimness into blinding sunshine. Once my eyes adjust to the light, I see the Promenade entrance to the bridge just up ahead and join the throng of people headed in that direction, eager for the visual delights that await. I feel a certain sense of comfort in being among the pack of like-minded people.
 
@@ -58,6 +57,6 @@ description: >-
 
 &nbsp;&nbsp;&nbsp;&nbsp;He turns and bows formally;
 
-&nbsp;&nbsp;&nbsp;&nbsp;“I am John Augustus Roebling[^1], at your service,” and then he disappears.
+&nbsp;&nbsp;&nbsp;&nbsp;“I am John Augustus Roebling.<sup>\*</sup>, at your service,” and then he disappears.
 
-&nbsp;&nbsp;&nbsp;&nbsp;[^1]:  John Augustus Roebling, the original engineer of the Brooklyn bridge, died in the early stages of its construction. 
+&nbsp;&nbsp;&nbsp;&nbsp;\*:  John Augustus Roebling, the original engineer of the Brooklyn bridge, died in the early stages of its construction. 

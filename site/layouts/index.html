@@ -1,5 +1,7 @@
 {{ define "main" }}
 
-{{ partial "image-and-text-third" (dict "title" .Title "text" .Params.bio.text "buttonText" "Read more" "buttonLink" "/products") }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
+{{ partial "image-and-text-third" (dict "heading" .Heading "text" .Params.bio.text "buttonText" "My books" "buttonLink" "/products") }}
 
 {{ end }}
