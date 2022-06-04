@@ -10,5 +10,5 @@ books:
     Like Emily Urquhart’s homage to her father in The Age of Creativity and Margaret Atwood’s coming of age story about an artist in Cat’s Eye, Manon Mouland illuminates the process of making art and exposes the artist’s soul.
     image2: /img/sophie-cover.jpg
     sophie: Sophie's Sophistication
-    text2: SOPHIE’S SOPHISTICATION is a contemporary novel with elements as bizarre as the obsession of HH Humbert in Lolita; the pathos of Philip Carey in Of Human Bondage; the nymphomaniacal sexuality of Sabina in Delta of Venus and even the unlikely relationship of Anastasia Steele and Christian Grey in Fifty Shades of Grey. Sophie oozes an innocent sensuality that makes her irresistible to male and female readers alike.
+    text2: SOPHIE’S SOPHISTICATION is a contemporary novel with elements as bizarre as the obsession of HH Humbert in Lolita\; the pathos of Philip Carey in Of Human Bondage\; the nymphomaniacal sexuality of Sabina in Delta of Venus and even the unlikely relationship of Anastasia Steele and Christian Grey in Fifty Shades of Grey. Sophie oozes an innocent sensuality that makes her irresistible to male and female readers alike.
 ---
