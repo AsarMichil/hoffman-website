@@ -57,6 +57,6 @@ description: >-
 
 &nbsp;&nbsp;&nbsp;&nbsp;He turns and bows formally;
 
-&nbsp;&nbsp;&nbsp;&nbsp;“I am John Augustus Roebling.<sup>\*</sup>, at your service,” and then he disappears.
+&nbsp;&nbsp;&nbsp;&nbsp;“I am John Augustus Roebling.<sup>1</sup>, at your service,” and then he disappears.
 
-&nbsp;&nbsp;&nbsp;&nbsp;\*:  John Augustus Roebling, the original engineer of the Brooklyn bridge, died in the early stages of its construction. 
+&nbsp;&nbsp;&nbsp;&nbsp;1:  John Augustus Roebling, the original engineer of the Brooklyn bridge, died in the early stages of its construction. 
