@@ -1,9 +1,15 @@
 {{ define "main" }}
- 
+
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
-{{ partial "image-and-text-third" (dict "imageUrl" .Params.books.image1 "title" .Params.books.manon "para1" .Params.books.para1 "para2" .Params.books.para2 "para3" .Params.books.para3)}}
+<div class="flex flex-wrap"> 
 
-{{ partial "image-and-text-third-1" (dict "imageUrl" .Params.books.image2 "title" .Params.books.sophie "para4" .Params.books.para4)}}
+    {{ partial "image-and-text-third" (dict "imageUrl" .Params.books.image1 "title" .Params.books.manon "para1" .Params.books.para1 "para2" .Params.books.para2 "para3" .Params.books.para3)}}
+
+    {{ partial "image-and-text-third-1" (dict "imageUrl" .Params.books.image2 "title" .Params.books.sophie "para4" .Params.books.para4)}}
+
+</div>
+
+
 
 {{ end }}
