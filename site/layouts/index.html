@@ -1,10 +1,8 @@
 {{ define "main" }}
 
     {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
-    
-<div class="flex-l flex-wrap">
+
     {{ partial "image-and-text-third-paras" (dict "title" .Params.bio.heading "para1" .Params.bio.para1 "para2" .Params.bio.para2 "para3" .Params.bio.para3 "para4" .Params.bio.para4 "buttonText" "My books" "buttonLink" "/books") }}
-    
-</div>
+    {{ end }}
 
 {{ end }}
