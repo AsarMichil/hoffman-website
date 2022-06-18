@@ -1,6 +1,6 @@
 ---
 title: "Books"
-image: /img/home-at-my-desk.jpg
+image: /img/jumbotron-image.png
 books:
     image1: /img/manon-working-cover.jpg
     manon: Manon Mouland
