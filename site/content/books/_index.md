@@ -13,5 +13,5 @@ books:
     para4: SOPHIE’S SOPHISTICATION is a contemporary novel with elements as bizarre as the obsession of HH Humbert in Lolita; the pathos of Philip Carey in Of Human Bondage; the nymphomaniacal sexuality of Sabina in Delta of Venus and even the unlikely relationship of Anastasia Steele and Christian Grey in Fifty Shades of Grey. Sophie oozes an innocent sensuality that makes her irresistible to male and female readers alike.
     image3: /img/manon-cover.jpg
     storiedManon: Manon Infinite Stories
-    para5: A series of short stories, check out <a href= "#/post/stranger-on-the-bridge"> Stranger on the Bridge </a> for a taste!
+    para5: A series of short stories, check out [Stranger on the Bridge](/post/stranger-on-the-bridge/ "Stranger on the Bridge") for a taste!
 ---
