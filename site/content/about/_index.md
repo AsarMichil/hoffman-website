@@ -1,6 +1,6 @@
 ---
 title: "Susan Hoffman"
-image: /img/jumbotron-image-crop.png
+image: /img/jumbotron-image-bw.png
 bio:
     title: About Me
     para1: I was born in Hungary among a post-war boom of babies. We boomers were cherished as the hope of a future that promised peace and prosperity. After the war, Hungary was assigned to the eastern bloc of countries under Soviet rule and it wasn’t long before Hungarians rebelled and a wave of immigration landed me in Canada.
