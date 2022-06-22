@@ -21,6 +21,6 @@
         </div>
     </div>
     {{ with .Params.publications }}
-    {{ partial "3-image-grid" (dict "intro.heading" .heading "intro.text" .blurb "image1.link" .image1.link "image1.image" .image1.image "image1.alt" .image1.alt "image2.link" .image2.link "image2.image" .image2.image "image2.alt" .image2.alt "image3.link" .image3.link "image3.image" .image3.image "image3.alt" .image3.alt )}}
+    {{ partial "3-image-grid" .Params.publications }}
     {{ end }}
 {{ end }}
