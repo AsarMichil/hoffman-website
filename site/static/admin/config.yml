@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: AsarMichil/bruh-how-tf-this-work
+  repo: AsarMichil/hoffman-website
   branch: main 
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
