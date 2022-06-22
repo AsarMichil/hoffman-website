@@ -20,14 +20,14 @@ publications:
     blurb: a
     image1: 
         image: img/globe-and-mail-logo-min.png
-        alt: a
+        alt: Globe and Mail logo
         link: https://www.theglobeandmail.com/life/first-person/article-ive-discovered-the-true-gift-of-this-dreary-bleary-month/
     image2: 
         image: img/toronto-star-logo-min.png
-        alt: a
-        link: https://www.theglobeandmail.com/life/first-person/article-ive-discovered-the-true-gift-of-this-dreary-bleary-month/
+        alt: Toronto Star logo
+        link: https://www.thestar.com/opinion/letters_to_the_editors/2016/05/01/electronics-without-ethics-is-not-progress.html
     image3: 
         image: img/LivingLegacies-img.jpg
-        alt: a
-        link: https://www.theglobeandmail.com/life/first-person/article-ive-discovered-the-true-gift-of-this-dreary-bleary-month/
+        alt: Living Legacies Journal
+        link: 
 ---
