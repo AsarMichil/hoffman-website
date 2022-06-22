@@ -1,0 +1,35 @@
+  .brightness1 img {
+    filter: brightness(10%);
+  }
+
+  .brightness2 img {
+    filter: brightness(20%);
+  }
+
+  .brightness3 img {
+    filter: brightness(30%);
+  }
+
+  .brightness4 img {
+    filter: brightness(40%);
+  }
+
+  .brightness5 img {
+    filter: brightness(50%);
+  }
+
+  .brightness6 img {
+    filter: brightness(60%);
+  }
+
+  .brightness7 img {
+    filter: brightness(70%);
+  }
+
+  .brightness8 img {
+    filter: brightness(80%);
+  }
+
+  .brightness9 img {
+    filter: brightness(90%);
+  }
