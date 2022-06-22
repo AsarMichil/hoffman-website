@@ -17,7 +17,7 @@ books:
 
 publications: 
     heading: Publications
-    blurb: a
+    blurb: You can also find me published below!
     image1: 
         image: img/globe-and-mail-logo-min.png
         alt: Globe and Mail logo
