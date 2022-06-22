@@ -14,7 +14,8 @@ books:
     bookimage3: /img/manon-cover.jpg
     heading3: Infinite Stories
 
- publications: 
+
+publications: 
     heading: Publications
     blurb: a
     image1: 
