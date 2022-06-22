@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30.886404mm"
+   height="17.271997mm"
+   viewBox="0 0 30.886404 17.271997"
+   version="1.1"
+   id="svg322"
+   inkscape:export-filename="logo-SHsvg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview324"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs319">
+    <rect
+       x="113.99543"
+       y="414.40692"
+       width="465.36957"
+       height="139.47676"
+       id="rect328" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-31.685466,-113.47518)">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text326"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:spectral;-inkscape-font-specification:spectral;font-variant-ligatures:none;white-space:pre;shape-inside:url(#rect328)"><tspan
+         x="113.99609"
+         y="493.20257"
+         id="tspan410">SH</tspan></text>
+  </g>
+</svg>
