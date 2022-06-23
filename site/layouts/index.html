@@ -1,5 +1,7 @@
 {{ define "main" }}
 
+    {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
     {{ partial "image-and-text-third-home" (dict "bigText" .Params.bio.bigText "para1" .Params.bio.para1 "para2" .Params.bio.para2 "para3" .Params.bio.para3 "para4" .Params.bio.para4 "buttonText" "Books" "buttonLink" "/books") }}
 
 {{ end }}

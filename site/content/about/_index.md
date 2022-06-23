@@ -1,5 +1,5 @@
 ---
-title: "Susan Hoffman"
+title: "About"
 image: /img/jumbotron-image-bw.png
 bio:
     title: About Me
