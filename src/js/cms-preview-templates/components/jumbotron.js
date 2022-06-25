@@ -10,7 +10,7 @@ export default class Jumbotron extends React.Component {
         <div className="mw7 center ph3">
           <div className="db mb3">
             <div className="mw7 relative bg-fix-primary mb3">
-              <h1 className="f2 f1-l b di lh-title mb3 white mw6 bg-primary">
+              <h1 className="f2 f1-l b di lh-title mb3 white mw6">
                 { title }
               </h1>
             </div>
