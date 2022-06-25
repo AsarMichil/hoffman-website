@@ -28,9 +28,12 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: "Bio", name: bio, widget: object, fields: [
-              {label: "BigText", name: "bigText", widget: string},
-              {label: "Text", name: "para1", widget: "text"}]}
+          label: "Bio" 
+          name: bio
+          widget: object
+          fields: [
+              {label: "BigText", name: "bigText", widget: string}
+              {label: "Text", name: "para1", widget: "text"}]
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"
