@@ -82,8 +82,8 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading3, widget: string}
               - {label: Text, name: para3, widget: text}
               - {label: Image, name: bookimage3, widget: image}
-          - label: "Books"
-            name: "books"
+          - label: "Publications"
+            name: "publications"
             widget: "object"
             fields: 
               - {label: Heading, name: pheading, widget: string}
