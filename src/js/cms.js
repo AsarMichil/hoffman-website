@@ -12,8 +12,8 @@ import ContactPreview from "./cms-preview-templates/contact";
 
 CMS.init();
 CMS.registerPreviewStyle(styles, { raw: true });
-CMS.registerPreviewTemplate("home", HomePreview);
-CMS.registerPreviewTemplate("post", PostPreview);
-CMS.registerPreviewTemplate("products", ProductsPreview);
-CMS.registerPreviewTemplate("books", BooksPreview);
-CMS.registerPreviewTemplate("contact", ContactPreview);
+// CMS.registerPreviewTemplate("home", HomePreview);
+// CMS.registerPreviewTemplate("post", PostPreview);
+// CMS.registerPreviewTemplate("products", ProductsPreview);
+// CMS.registerPreviewTemplate("books", BooksPreview);
+// CMS.registerPreviewTemplate("contact", ContactPreview);
