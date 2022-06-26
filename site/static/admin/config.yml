@@ -67,12 +67,12 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/books/_index.md"
         label: "Books Page"
         name: "books"
-        widget: "object"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - label: "Books"
-            name: "books"
+            name: "booksection"
+            widget: "object"
             fields:
               - {label: Heading, name: heading1, widget: string}
               - {label: Text, name: para1, widget: text}

@@ -1,7 +1,7 @@
 ---
 title: "Books"
 image: "/img/jumbotron-image-bw.png"
-books:
+booksection:
     bookimage1: "/img/manon-working-cover.jpg"
     heading1: Manon Mouland
     para1: "MANON MOULAND is an artist who grew up in The Eastern Townships of Quebec, raised by a single Dad. Her longing for a larger family creates a confounding rootlessness and contributes to her insecurity. When her father dies she learns that she does indeed have family when a second cousin shows up at his funeral. He becomes the object of her misguided love as she later learns he is actually her half brother."
