@@ -2,20 +2,20 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
-    {{ partial "image-and-text-third" (dict "imageUrl" .Params.books.bookimage1 "title" .Params.books.heading1 "para1" .Params.books.para1 "para2" .Params.books.para2 "para3" .Params.books.para3 "para4" .Params.books.para4)}}
-    {{ partial "image-and-text-third-1-para" (dict "imageUrl" .Params.books.bookimage2 "title" .Params.books.heading2 "para" .Params.books.para5)}}
+    {{ partial "image-and-text-third" (dict "imageUrl" .Params.booksection.bookimage1 "title" .Params.booksection.heading1 "para1" .Params.booksection.para1 "para2" .Params.booksection.para2 "para3" .Params.booksection.para3 "para4" .Params.booksection.para4)}}
+    {{ partial "image-and-text-third-1-para" (dict "imageUrl" .Params.booksection.bookimage2 "title" .Params.booksection.heading2 "para" .Params.booksection.para5)}}
     <div class="bg-grey-1 pv4">
         <div class="ph3 mw7 center">
             <div class="w-100 flex-ns mhn1-ns flex-wrap mb3"> 
                 <div class="w-third-ns ph2-ns">
-                    <img src="{{.Params.books.bookimage3}}" alt="" class="mb3">
+                    <img src="{{.Params.booksection.bookimage3}}" alt="" class="mb3">
                 </div>
                 <div class="w-two-thirds-ns ph2-ns">
-                    <h2 class="f2 b lh-title mb2">{{.Params.books.heading3}}</h2>
-                    <p class="p indent">  INFINITE STORIES is a collection of short works of fiction and non-fiction 
-                        that that reflects the author’s diverse interests. It also includes a selection of Haiku-inspired poetry by Andre Oppenheim, 
-                        the author’s husband. <br>
-                        Check out <a href="/post/story/">Stranger on the Bridge</a> for a taste!</p>
+                    <h2 class="f2 b lh-title mb2">{{.Params.booksection.heading3}}</h2>
+                    <p class="p indent">  INFINITE STORIES is a collection of short works of fiction and non-fiction that reflects the author’s diverse interests. 
+                        It also includes a selection of Haiku-inspired poetry by Andre Oppenheim, the author’s husband.
+                       <br>
+                       You can sample the story Stranger on the Bridge <a href="/post/story/">here</a>.</p>
                 </div>
             </div>
             <div class="tc">
